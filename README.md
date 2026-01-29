@@ -1,5 +1,5 @@
 # Arch Linux Guide
-
+- New version coming soon to explain as to what we are actually doing at every step to configure the OS
 A simple guide to help you install arch seamlessly
 ## Table of Contents
 
